@@ -1,0 +1,21 @@
+{
+  "name": "virtual-card",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run serve",
+    "serve": "http-server"
+  },
+  "keywords": [
+    "chris",
+    "rocco",
+    "web",
+    "developer"
+  ],
+  "author": "Chris Rocco",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
